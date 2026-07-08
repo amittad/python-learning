@@ -14,4 +14,4 @@ This repository contains my Python learning journey.
 - File Handling
 - Mini Projects
 
-Author: Amit 
+Author: Amit tad
