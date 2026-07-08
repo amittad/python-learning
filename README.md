@@ -4,7 +4,7 @@ This repository contains my Python learning journey.
 
 ## Topics
 
-- Basics
+- Basics= app.py
 - Variables
 - Operators
 - Conditions
