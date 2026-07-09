@@ -16,4 +16,4 @@ This repository contains my Python learning journey.
 
 Author: Amit tad
 
-today i learn
+today i
