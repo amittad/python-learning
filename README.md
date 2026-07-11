@@ -1,6 +1,6 @@
 # Python Learning
 
-This repository contains my Python learning journey.
+                                        oThis repository contains my Python learning journey.
 
 ## Topics
 
