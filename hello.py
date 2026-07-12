@@ -1,3 +1,3 @@
-print("Hello, Amit eord!")
+      hhsjjs print("Hello, Amit eord!")
 for i in range(1,10):
     print(i)
